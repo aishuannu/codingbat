@@ -1,1 +1,1 @@
-This contains solutions for codingbat simple python problems.
+This contains solutions for simple python problems posted in the website codingbat.com .

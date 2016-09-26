@@ -1,8 +1,0 @@
-def f(a,b):
-	c = min(len(a),len(b))
-	if len(a) == c:
-		return a+b+a
-	else:
-		return b+a+b
-
-print f("hi","hello")
